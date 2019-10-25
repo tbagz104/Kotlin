@@ -1,3 +1,6 @@
+
+//https://codeforces.com/problemset/problem/1030/A
+
 import java.util.Scanner
 
 fun main(args: Array<String>) {
